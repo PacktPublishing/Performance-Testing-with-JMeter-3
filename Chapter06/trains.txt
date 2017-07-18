@@ -1,0 +1,6 @@
+train_name,train_speed,diesel
+train_1,10,true
+train_2,15,false
+train_3,80,true
+fast_train,160,true
+slow_train,50,false

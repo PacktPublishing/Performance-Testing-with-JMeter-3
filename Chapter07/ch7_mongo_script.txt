@@ -1,0 +1,10 @@
+db.posts.insert( { title: "Along came a spider", published_date: new Date(), content: "yada yada" } );
+db.posts.insert( { title: "Best Man", published_date: new Date(), content: "yada yada" } );
+db.posts.insert( { title: "Shawshank Redemption", published_date: new Date(), content: "yada yada" } );
+db.posts.insert( { title: "Boss Baby", published_date: new Date(), content: "yada yada" } );
+db.posts.insert( { title: "Titanic", published_date: new Date(), content: "yada yada" } );
+db.posts.insert( { title: "Why did I get married?", published_date: new Date(), content: "yada yada" } );
+db.posts.insert( { title: "Mission Impossible", published_date: new Date(), content: "yada yada" } );
+db.posts.insert( { title: "Despicable Me", published_date: new Date(), content: "yada yada" } );
+db.posts.insert( { title: "Inside Out", published_date: new Date(), content: "yada yada" } );
+db.posts.insert( { title: "The Croods", published_date: new Date(), content: "yada yada" } );
